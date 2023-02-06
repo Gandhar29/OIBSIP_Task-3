@@ -9,5 +9,9 @@ are unlocked. The project allows to perform following operations:
 4-Transfer
 5-Quit
 
-https://user-images.githubusercontent.com/124253823/216304425-2fb89760-271b-44fd-8061-b282ac652fc8.mp4
+
+
+
+
+https://user-images.githubusercontent.com/124253823/217059224-b1abf64c-f45d-4f07-807f-b7d3b782a6a8.mp4
 
